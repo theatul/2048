@@ -1,6 +1,7 @@
 
 {
 "manifest_version": 2,
+"short_name": "2048",
 "name": "2048",
 "description": "Simple 2048 game",
 "version": "1.1",
